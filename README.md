@@ -1,8 +1,8 @@
 
 
-### Hello welcome my github profile :) 👋 ,
+# Hello welcome my github profile :) 👋 ,
 
-## I work as an embedded software engineer at Quall Technology in Atasehir / Istanbul. I want to spend the rest of my career as a JAVA Backend developer. I am learning and working on trainings related to this field such as OOP, JAVA CORE in my daily life.The biggest contribution to my learning process is the Path.it will be thanks to the bootcamp that I bought over dev. Endless thanks for your contributions and nice trainings, Patika, I'm glad you're here.  I want to become a professional backend engineer who writes clean code thanks to the education I received and the experiences I gained during the rest of my career.
+### I work as an embedded software engineer at Quall Technology in Atasehir / Istanbul. I want to spend the rest of my career as a JAVA Backend developer. I am learning and working on trainings related to this field such as OOP, JAVA CORE in my daily life.The biggest contribution to my learning process is the Path.it will be thanks to the bootcamp that I bought over dev. Endless thanks for your contributions and nice trainings, Patika, I'm glad you're here.  I want to become a professional backend engineer who writes clean code thanks to the education I received and the experiences I gained during the rest of my career.
 
 
 - 🔭 I’m currently working on embedded software engineer.
@@ -15,7 +15,6 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/alicanli1995)
-[![LinkedIn Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://www.linkedin.com/in/ali-canli/)
-
+[![LinkedIn Badge](https://i.ibb.co/DVdTPH9/super-tiny-icons-linkedin-1324450747503589428.png)](https://www.linkedin.com/in/ali-canli/)
 
 
