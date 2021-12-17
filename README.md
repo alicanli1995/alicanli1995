@@ -19,9 +19,13 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ali-canli/) or [Mail](mailto:alicanli1995@gmail.com?subject=Hello)
 - 😄 Pronouns: All pronouns :)
 
-
 [![Github Badge](https://i.ibb.co/3zz3vPF/Git-Hub-Mark.png)](https://github.com/alicanli1995)
 [![LinkedIn Badge](https://i.ibb.co/DVdTPH9/super-tiny-icons-linkedin-1324450747503589428.png)](https://www.linkedin.com/in/ali-canli/)
 [![Mail Badge](https://i.ibb.co/k1NMjhh/281769.png)](mailto:alicanli1995@gmail.com?subject=Hello)
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=alicanli1995&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=alicanli1995&show_icons=true&theme=radical)
+
 
 
