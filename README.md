@@ -24,8 +24,8 @@
 [![Mail Badge](https://i.ibb.co/k1NMjhh/281769.png)](mailto:alicanli1995@gmail.com?subject=Hello)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=alicanli1995&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=alicanli1995&show_icons=true&theme=radical)
+
 
 
 
