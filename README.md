@@ -2,7 +2,7 @@
 
 ## Hello 👋 welcome my github profile :) 
 
-*I work as an embedded software engineer at Quall Technology in Atasehir / Istanbul. I want to spend the rest of my career as a JAVA Backend developer. I am learning and working on trainings related to this field such as OOP, Java Core , Spring framework in my daily life.The biggest contribution to my learning process is the Patika.dev will be thanks to the bootcamp. Endless thanks for your contributions and nice trainings, Patika, I'm glad you're here.  I want to become a professional backend engineer who writes clean code thanks to the education I received and the experiences I gained during the rest of my career.*
+I am learning and working on trainings related to this field such as OOP, Java Core , Spring framework in my daily life.The biggest contribution to my learning process is the Patika.dev will be thanks to the bootcamp. Endless thanks for your contributions and nice trainings, Patika, I'm glad you're here.  I want to become a professional backend engineer who writes clean code thanks to the education I received and the experiences I gained during the rest of my career.*
 
 
 ***In my object-oriented programming, I write programs according to the following two logics.*** 
