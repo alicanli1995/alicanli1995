@@ -2,14 +2,7 @@
 
 ## Hello 👋 welcome my github profile :) 
 
-I am learning and working on trainings related to this field such as OOP, Java Core , Spring framework in my daily life. The biggest contribution to my learning process is the Patika.dev will be thanks to the bootcamp. Endless thanks for your contributions and nice trainings.  I want to become a professional backend engineer who writes clean code thanks to the education I received and the experiences I gained during the rest of my career.*
-
-
-***In my object-oriented programming, I write programs according to the following two logics.*** 
-> "Program to an interface , not an implementation."
-> 
-> "Do not depend on concepts, depend on abstractions."
-
+I am learning and working on trainings related to this field such as OOP, Java Core , Spring framework in my daily life. I want to become a professional backend engineer who writes clean code thanks to the education I received and the experiences I gained during the rest of my career.*
 
 - 🔭 I’m currently working on embedded software engineer.
 - 👋 I'm currently working on ```C, Assembly , Java , Python``` languages
