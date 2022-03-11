@@ -7,7 +7,6 @@ I am learning and working on trainings related to this field such as OOP, Java C
 - 🔭 I’m currently working on embedded software engineer.
 - 👋 I'm currently working on ```C, Assembly , Java , Python``` languages
 - 🌱 I’m currently learning Backend technology with Java and java's frameworks.
-- 👯 I’m looking to collaborate on Patika.dev
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ali-canli/) or [Mail](mailto:alicanli1995@gmail.com?subject=Hello)
 
 [![Github Badge](https://i.ibb.co/3zz3vPF/Git-Hub-Mark.png)](https://github.com/alicanli1995)
