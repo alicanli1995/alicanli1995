@@ -2,7 +2,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=alicanli1995&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Hello 👋 welcome my github profile :)
 
