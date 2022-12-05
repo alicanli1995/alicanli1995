@@ -4,7 +4,7 @@
 
 ## Hello 👋 welcome my github profile :)
 
-I am learning and working on trainings related to this field such as Spring framework, Microservices arthitecture , NoSQL, RDMS in my daily life. I want to become a professional backend engineer who writes clean code thanks to the education I received and the experiences I gained during the rest of my career.\*
+I am learning and working on trainings related to this field such as Spring framework, Microservices arthitecture , NoSQL, RDMS in my daily life. I want to become a professional backend engineer who writes clean code thanks to the education I received and the experiences I gained during the rest of my career.
 
 - 🔭 I’m currently working on Java Software Developer.
 - 👋 I'm currently working on `Java` languages
@@ -18,10 +18,5 @@ Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/Sha
 [![Mail Badge](https://i.ibb.co/k1NMjhh/281769.png)](mailto:alicanli1995@gmail.com?subject=Hello)
 
 
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=alicanli1995&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=alicanli1995&theme=github&count_private=true)
 
