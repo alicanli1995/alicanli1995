@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=alicanli1995&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
-
 # Hello 👋, welcome to my GitHub profile!
 
 I'm a software developer who is dedicated to learning and working on various aspects of this field, including the Spring framework, Microservices architecture, NoSQL, and RDMS in my daily life. My ultimate goal is to become a professional backend engineer capable of writing clean code, thanks to the education I've received and the experiences I've gained throughout my career.
